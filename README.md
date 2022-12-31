@@ -21,6 +21,7 @@
 
 
 # Schema 
+![](immigration_schema.png)
 - Star schema that contains **1** fact table (**immigration**) and **3** dimension tables (**tempratures**, **demographics**, and **airports**)
 
 ## Fact Table
